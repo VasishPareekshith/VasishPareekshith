@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🎓 I’m pursuing the final year of my B.Tech CSE degree at Vellore Institute of Technology, Chennai Campus.<br>- 📚 I love creating full-stack applications.<br>- ⚡ In my free time I like to play games and learn to create them.</p>
+<p align="left">- 🎓 I’m pursuing the final year of my B.Tech CSE degree at Vellore Institute of Technology, Chennai Campus.<br>- 📚 I love creating full-stack applications.<br>- ⚡ In my free time I like to play games and learn to create them.</p>
 
 ###
 
